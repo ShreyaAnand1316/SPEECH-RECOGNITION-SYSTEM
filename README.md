@@ -52,3 +52,5 @@ Prototyping:
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e2a9b015-fb90-44f8-8b7c-ae105f44ff94)
+![Image](https://github.com/user-attachments/assets/61586d1b-27a4-4cba-a18d-cea6bd13c075)
